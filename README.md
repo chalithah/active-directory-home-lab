@@ -4,7 +4,7 @@ This project is a full lab environment that simulates an enterprise setup with A
 
 ## 📌 Architecture Diagram
 
-Diagram coming soon..
+![Elastic Dashboard](images/HomeLab.png)
 
 This lab simulates a real-world enterprise setup with:
 Components:
@@ -103,11 +103,3 @@ Detected via Splunk:
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 - [Sysmon Config](https://github.com/SwiftOnSecurity/sysmon-config)
 - [Splunk Free Training](https://www.splunk.com/en_us/training.html)
-
----
-
-## 🙋 About Me
-
-I'm a SOC Analyst with a passion for building blue team labs and testing adversary simulations. This project showcases hands-on detection work and is part of my cybersecurity learning journey.
-
-> _Stay curious. Break things safely. Document everything._ 🧠
