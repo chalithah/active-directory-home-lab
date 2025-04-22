@@ -99,7 +99,6 @@ Detected via Splunk:
 
 ## 📚 References
 
-- [YouTube Series (Start Here)](https://youtu.be/5OessbOgyEo)
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 - [Sysmon Config](https://github.com/SwiftOnSecurity/sysmon-config)
 - [Splunk Free Training](https://www.splunk.com/en_us/training.html)
