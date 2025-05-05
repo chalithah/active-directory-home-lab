@@ -67,7 +67,7 @@ Detected via Splunk:
 - Privilege escalation attempts
 - Lateral movement indicators
 
-> _Example Splunk queries and dashboards coming soon!_
+> _screenshots of: Splunk queries and dashboards
 
 ---
 
@@ -82,7 +82,7 @@ Detected via Splunk:
 
 ## 📸 Screenshots
 
-> Add screenshots of:
+> screenshots of:
 - Domain setup
 - Brute-force alerts
 - Splunk dashboards
